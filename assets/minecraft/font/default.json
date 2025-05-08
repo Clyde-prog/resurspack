@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 60,
+            "height": 140,
+            "chars": [
+                "\u022A"
+            ]
+        }
+    ]
+}
